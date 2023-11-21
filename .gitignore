@@ -1,0 +1,9 @@
+/out
+/cache
+.DS_Store
+./corpus
+./certora_config
+./last_confs
+./
+/node_modules
+/crytic-export

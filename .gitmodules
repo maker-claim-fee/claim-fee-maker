@@ -1,0 +1,9 @@
+[submodule "lib/ds-test"]
+	path = lib/ds-test
+	url = https://github.com/dapphub/ds-test
+[submodule "lib/dss.git"]
+	path = lib/dss.git
+	url = https://github.com/makerdao/dss.git
+[submodule "lib/dss-gate"]
+	path = lib/dss-gate
+	url = https://github.com/maker-claim-fee/dss-gate
